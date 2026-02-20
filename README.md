@@ -62,7 +62,6 @@ Aku menikmati proses belajar dari dokumentasi, mencoba project kecil, dan merapi
 </table>
 
 </div>
----
 
 <!-- Contribution Streak -->
 <div align="center">
