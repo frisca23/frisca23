@@ -62,28 +62,7 @@ Aku menikmati proses belajar dari dokumentasi, mencoba project kecil, dan merapi
 </table>
 
 </div>
-
 ---
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=frisca23&show_icons=true&theme=dark&bg_color=00000000&hide_border=true&cache_seconds=1800&v=1"
-        alt="GitHub Stats"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=frisca23&layout=compact&theme=dark&bg_color=00000000&hide_border=true&cache_seconds=1800&v=1"
-        alt="Most Used Languages"
-      />
-    </td>
-  </tr>
-</table>
-
-</div>
 
 <!-- Contribution Streak -->
 <div align="center">
@@ -102,7 +81,7 @@ Aku menikmati proses belajar dari dokumentasi, mencoba project kecil, dan merapi
     alt="Contribution Graph"
   />
 </div>
-
+---
 ## Kontak
 
 <div align="center">
