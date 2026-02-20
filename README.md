@@ -44,20 +44,24 @@ Aku menikmati proses belajar dari dokumentasi, mencoba project kecil, dan merapi
 
 <div align="center">
 
-| GitHub Stats | Most Used Languages |
-|---|---|
-| <img src="https://github-readme-stats.vercel.app/api?username=frisca23&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=22c55e&ring_color=22c55e" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frisca23&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff" alt="Top Languages" /> |
+<table>
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=frisca23&show_icons=true&theme=dark&bg_color=00000000&hide_border=true&cache_seconds=1800&v=1"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=frisca23&layout=compact&theme=dark&bg_color=00000000&hide_border=true&cache_seconds=1800&v=1"
+        alt="Most Used Languages"
+      />
+    </td>
+  </tr>
+</table>
 
 </div>
-
-<!-- Optional: streak (kalau mau, hapus komentar di bawah) -->
-<!--
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=frisca23&theme=transparent&hide_border=true&ring=22c55e&fire=22c55e&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=9ca3af" alt="GitHub Streak" />
-</div>
--->
-
----
 
 ## Kontak
 
@@ -74,14 +78,3 @@ Aku menikmati proses belajar dari dokumentasi, mencoba project kecil, dan merapi
 </div>
 
 ---
-<div align="center">
-
-<a href="https://www.linkedin.com/in/frisca-putri-cahyani-644b67320/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://www.instagram.com/friscaaap__?igsh=NWxqeTVjaDdrMzBq" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
-</div>
