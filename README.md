@@ -74,10 +74,14 @@ Aku menikmati proses belajar dari dokumentasi, mencoba project kecil, dan merapi
 </div>
 
 ---
-
 <div align="center">
-  <sub>
-    Dibuat dengan gaya clean + dark/transparent cards.  
-    Kalau kamu kasih link LinkedIn & Instagram kamu, aku bisa rapikan jadi final tanpa placeholder.
-  </sub>
+
+<a href="https://www.linkedin.com/in/frisca-putri-cahyani-644b67320/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://www.instagram.com/friscaaap__?igsh=NWxqeTVjaDdrMzBq" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
 </div>
