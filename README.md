@@ -80,7 +80,7 @@ Aku menikmati proses belajar dari dokumentasi, mencoba project kecil, dan merapi
     alt="Contribution Graph"
   />
 </div>
----
+
 ## Kontak
 
 <div align="center">
