@@ -63,20 +63,6 @@ Aku menikmati proses belajar dari dokumentasi, mencoba project kecil, dan merapi
 
 </div>
 
-## Kontak
-
-<div align="center">
-
-<a href="www.linkedin.com/in/frisca-putri-cahyani-644b67320 " target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="(https://www.instagram.com/friscaaap__?igsh=NWxqeTVjaDdrMzBq)" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
-</div>
-
 ---
 <div align="center">
 
@@ -115,4 +101,18 @@ Aku menikmati proses belajar dari dokumentasi, mencoba project kecil, dan merapi
     src="https://github-readme-activity-graph.vercel.app/graph?username=frisca23&theme=github-compact&hide_border=true&bg_color=00000000&line=22c55e&point=ffffff&color=ffffff&cache_seconds=1800&v=1"
     alt="Contribution Graph"
   />
+</div>
+
+## Kontak
+
+<div align="center">
+
+<a href="www.linkedin.com/in/frisca-putri-cahyani-644b67320 " target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="(https://www.instagram.com/friscaaap__?igsh=NWxqeTVjaDdrMzBq)" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
 </div>
