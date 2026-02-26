@@ -48,13 +48,13 @@ Aku menikmati proses belajar dari dokumentasi, mencoba project kecil, dan merapi
   <tr>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api?username=frisca23&show_icons=true&theme=dark&bg_color=00000000&hide_border=true&cache_seconds=1800&v=1"
+        src="https://github-readme-stats.vercel.app/api?username=frisca23&show_icons=true&theme=dark&bg_color=00000000&hide_border=true"
         alt="GitHub Stats"
       />
     </td>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=frisca23&layout=compact&theme=dark&bg_color=00000000&hide_border=true&cache_seconds=1800&v=1"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=frisca23&layout=compact&theme=dark&bg_color=00000000&hide_border=true"
         alt="Most Used Languages"
       />
     </td>
@@ -66,7 +66,7 @@ Aku menikmati proses belajar dari dokumentasi, mencoba project kecil, dan merapi
 <!-- Contribution Streak -->
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=frisca23&theme=dark&hide_border=true&background=00000000&cache_seconds=1800&v=1"
+    src="https://streak-stats.demolab.com?user=frisca23&theme=dark&hide_border=true&background=00000000"
     alt="Contribution Streak"
   />
 </div>
@@ -76,7 +76,7 @@ Aku menikmati proses belajar dari dokumentasi, mencoba project kecil, dan merapi
 <!-- Contribution Graph -->
 <div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=frisca23&theme=github-compact&hide_border=true&bg_color=00000000&line=22c55e&point=ffffff&color=ffffff&cache_seconds=1800&v=1"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=frisca23&theme=github-compact&hide_border=true&bg_color=00000000&line=22c55e&point=ffffff&color=ffffff"
     alt="Contribution Graph"
   />
 </div>
@@ -85,11 +85,11 @@ Aku menikmati proses belajar dari dokumentasi, mencoba project kecil, dan merapi
 
 <div align="center">
 
-<a href="www.linkedin.com/in/frisca-putri-cahyani-644b67320 " target="_blank">
+<a href="https://www.linkedin.com/in/frisca-putri-cahyani-644b67320" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="(https://www.instagram.com/friscaaap__?igsh=NWxqeTVjaDdrMzBq)" target="_blank">
+<a href="https://www.instagram.com/friscaaap__?igsh=NWxqeTVjaDdrMzBq" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
